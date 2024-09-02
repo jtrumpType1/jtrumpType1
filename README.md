@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/JimTrumpUSMC
-
+[instagram]: https://www.instagram.com/gymmyt1/
 [linkedin]: https://www.linkedin.com/in/jimtrump/
